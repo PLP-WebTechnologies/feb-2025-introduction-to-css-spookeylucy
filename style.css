@@ -1,0 +1,31 @@
+/* Selector 1: Styling the title */
+.title {
+    color: #4CAF50;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+/* Selector 2: Styling an ID */
+#intro {
+    font-size: 18px;
+    color: hsl(300, 83%, 51%);
+    margin: 10px;
+    padding: 5px;
+}
+
+/* Selector 3: Styling an image */
+.styled-image {
+    width: 300px;
+    border: 5px solid hsl(358, 86%, 32%);
+    display: block;
+    margin: 20px auto;
+}
+
+/* Bonus: Styling a box */
+.box {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border: 2px dashed hsl(245, 92%, 38%);
+    margin: 30px;
+    text-align: center;
+}
